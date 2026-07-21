@@ -1,20 +1,11 @@
-### Hi there 👋
+### Terralien
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terralien-jp&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Terralien-jp&theme=onedark&show_icons=ture" />
-</p>
-<!--
-**Terralien-jp/Terralien-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+個人事業主。屋号 Terralien で、クラウド・AI・Web・メディア運用・自動化を横断して手を動かしています。
+ここは「作ってきたもの」と「まなびなおし」の置き場です。
 
-Here are some ideas to get you started:
+- 🌐 サイト（記録の本体）: https://terralien.net
+- 🐦 X: https://x.com/Terralienjp
+- ☁️ AWS認定12冠 / E資格 — 実装と運用に地続きで
+- 🔭 いま: メディア運用の自動化、AWS / AI のまなびなおし
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 客を取るためのプロフィールではなく、やってきたことの記録です。
