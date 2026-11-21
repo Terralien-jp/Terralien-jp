@@ -10,6 +10,12 @@
 
 > やってきたことの記録です。
 
+### エージェント利用実績
+
+![Claude Code・Codex・Antigravity のトークン、会話数、依頼数](./assets/agent-activity.svg)
+
+会議PoCで記録したCLI利用の累計。 [カードテンプレート](https://github.com/Terralien-jp/agent-activity-card)
+
 <!-- AI-USAGE:START -->
 ### ⚡ AI Compute
 
