@@ -12,7 +12,15 @@
 
 ### エージェント利用実績
 
-![Claude Code・Codex・Antigravity のトークン、会話数、依頼数](./assets/agent-activity.svg)
+<!-- AGENT-ACTIVITY:START -->
+
+| エージェント | トークン | 会話 | 依頼 | 正常終了 |
+| --- | ---: | ---: | ---: | ---: |
+| Claude Code | 2,469 | 1 | 1 | 1 |
+| Codex | 5,099 | 1 | 1 | 1 |
+| Antigravity | 10,131 | 1 | 1 | 1 |
+
+<!-- AGENT-ACTIVITY:END -->
 
 会議PoCで記録したCLI利用の累計。 [カードテンプレート](https://github.com/Terralien-jp/agent-activity-card)
 
